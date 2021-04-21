@@ -1,7 +1,5 @@
 import React, { FC, Fragment } from "react";
 
-var asd = 1;
-
 const App: FC = () => {
   return (
     <Fragment>
